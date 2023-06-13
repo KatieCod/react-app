@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './Ex6-Hook/App';
 import reportWebVitals from './reportWebVitals';
+// import './Counter/counter.css';
+// import './Calculator/calculator.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
